@@ -462,11 +462,11 @@ Generative AI assistance, where used, is limited according to the course guideli
 * [x] Dataset audit
 * [x] Missing-value analysis
 * [x] Duplicate analysis
-* [ ] Outlier analysis
-* [ ] Exploratory Data Analysis
-* [ ] Feature engineering
-* [ ] Train-test split
-* [ ] Feature scaling
+* [x] Outlier analysis
+* [x] Exploratory Data Analysis
+* [x] Feature engineering
+* [x] Train-test split
+* [x] Feature scaling
 * [ ] 10 regression algorithms
 * [ ] Regression comparison table
 * [ ] Hyperparameter tuning for at least 2 regression models
