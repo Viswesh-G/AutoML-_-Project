@@ -467,8 +467,8 @@ Generative AI assistance, where used, is limited according to the course guideli
 * [x] Feature engineering
 * [x] Train-test split
 * [x] Feature scaling
-* [ ] 10 regression algorithms
-* [ ] Regression comparison table
+* [x] 10 regression algorithms
+* [x] Regression comparison table
 * [ ] Hyperparameter tuning for at least 2 regression models
 * [ ] Cross-validation for the best regression models
 * [ ] Regression visualisations
