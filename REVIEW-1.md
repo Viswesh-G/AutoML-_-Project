@@ -458,7 +458,7 @@ Generative AI assistance, where used, is limited according to the course guideli
 
 * [x] Dataset selection
 * [x] Dataset description
-* [ ] Dataset loading and parsing
+* [x] Dataset loading and parsing
 * [ ] Dataset audit
 * [ ] Missing-value analysis
 * [ ] Duplicate analysis
