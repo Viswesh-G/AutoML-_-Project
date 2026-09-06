@@ -471,7 +471,7 @@ Generative AI assistance, where used, is limited according to the course guideli
 * [x] Regression comparison table
 * [ ] Hyperparameter tuning for at least 2 regression models
 * [ ] Cross-validation for the best regression models
-* [ ] Regression visualisations
+* [x] Regression visualisations
 * [ ] Classification Part A — 5 algorithms
 * [ ] Classification evaluation
 
