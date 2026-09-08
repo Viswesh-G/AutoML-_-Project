@@ -458,20 +458,20 @@ Generative AI assistance, where used, is limited according to the course guideli
 
 * [x] Dataset selection
 * [x] Dataset description
-* [ ] Dataset loading and parsing
-* [ ] Dataset audit
-* [ ] Missing-value analysis
-* [ ] Duplicate analysis
-* [ ] Outlier analysis
-* [ ] Exploratory Data Analysis
-* [ ] Feature engineering
-* [ ] Train-test split
-* [ ] Feature scaling
-* [ ] 10 regression algorithms
-* [ ] Regression comparison table
+* [x] Dataset loading and parsing
+* [x] Dataset audit
+* [x] Missing-value analysis
+* [x] Duplicate analysis
+* [x] Outlier analysis
+* [x] Exploratory Data Analysis
+* [x] Feature engineering
+* [x] Train-test split
+* [x] Feature scaling
+* [x] 10 regression algorithms
+* [x] Regression comparison table
 * [ ] Hyperparameter tuning for at least 2 regression models
 * [ ] Cross-validation for the best regression models
-* [ ] Regression visualisations
+* [x] Regression visualisations
 * [ ] Classification Part A — 5 algorithms
 * [ ] Classification evaluation
 
