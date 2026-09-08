@@ -6,8 +6,6 @@
 - `notebooks/regression.ipynb` — Review 1 regression work
 - `notebooks/classification.ipynb` — Review 1 Classification Part A
 - `src/data_loader.py` — dataset loading/parsing utilities
-- `src/preprocessing.py` — preprocessing utilities
-- `src/feature_engineering.py` — feature engineering utilities
 - `requirements.txt` — Python dependencies
 
 ## Team Responsibility
